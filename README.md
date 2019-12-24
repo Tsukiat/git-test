@@ -3,14 +3,14 @@
 
 # Table of Contents
 **[First Time Setup](#First-Time-Setup)**  
-**[Cloning/Initializing a Repository](#Cloning/Initializing-a-Repository)**  
+**[Cloning/Initializing a Repository](#Cloning-/-Initializing-a-Repository)**  
 **[Commonly Used Commands](#Commonly-Used-Commands)**  
 **[Commonly Used Commands for Fixing Mistakes](#Commonly-Used-Commands-for-Fixing-Mistakes)**  
 **[Common Workflow with Branches](#Common-Workflow-with-Branches)**  
 **[Restoring Deleted Commits](#Restoring-Deleted-Commits)**  
 **[Contributing to Open Source Projects](#Contributing-to-Open-Source-Projects)**  
 **[Accessing Manual Page in Git](#Manual-Page)**  
-**[The .gitignore File](#.gitignore)**  
+**[The .gitignore File](#-.gitignore)**  
 
 <br>
 <br>
@@ -38,7 +38,7 @@ To check if any SSH key is installed
 <br>
 <br>
 
-## Cloning/Initializing a Repository
+## Cloning / Initializing a Repository
 #### Initializing
 1. `$ git init`  
 Turn current directory into a Git repository  
@@ -224,7 +224,7 @@ Push changes to the master branch of the forked repository
 <br>
 <br>
 
-## .gitignore
+##  .gitignore
 For excluding files from Version Control
 1. Create a file name `.gitignore` in current directory
 2. Enter the name of any files to be excluded from tracking in `.gitignore`
