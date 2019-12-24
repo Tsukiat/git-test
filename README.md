@@ -1,6 +1,6 @@
 # Notes on Git
 *omit `[]`, include `""` when typing commands*  
-
+alo
 # Table of Contents
 **[First Time Setup](#First-Time-Setup)**  
 **[Cloning/Initializing a Repository](#Cloning--Initializing-a-Repository)**  
